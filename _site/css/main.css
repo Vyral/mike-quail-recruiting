@@ -1207,7 +1207,7 @@ html[xmlns] .flexslider .slides {
       margin-left: 10px; }
 
 .photo-cta {
-  width: 100%;
+  width: 75%;
   line-height: 20px;
   display: block;
   margin: 0 auto;
@@ -1215,8 +1215,7 @@ html[xmlns] .flexslider .slides {
   margin-bottom: 20px; }
 
 .photo-cta-container {
-  width: 70%;
-  margin-left: 15%; }
+  width: 100%; }
 
 .cta-button {
   position: absolute;
@@ -1232,8 +1231,8 @@ html[xmlns] .flexslider .slides {
   font-weight: bold;
   margin-left: auto;
   margin-right: auto;
-  left: 100px;
-  right: 100px;
+  left: 50px;
+  right: 50px;
   text-align: center; }
   .cta-button a {
     color: #19489d; }
@@ -1244,6 +1243,10 @@ html[xmlns] .flexslider .slides {
     .cta-button:hover a {
       color: #fff; }
 
+@media (max-width: 1000px) {
+  .cta-button {
+    left: 100px;
+    right: 100px; } }
 .jp-audio {
   border: 0;
   color: #19489d;
@@ -1380,16 +1383,16 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  margin-top: 2rem; }
+  margin-top: 1.5rem; }
 
 .navbar-right {
-  margin-top: 2rem; }
+  margin-top: 1.5rem; }
   .navbar-right a {
     font-weight: bold; }
 
 .nav-logo {
   float: left !important;
-  max-width: 250px;
+  max-width: 300px;
   margin: 5px;
   padding: 10px; }
 
