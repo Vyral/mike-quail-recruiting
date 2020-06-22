@@ -14,7 +14,7 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-
+<!--
 <p>Dear Real Estate Agent,</p>
 
 <p>Are you frustrated with where you’re at in your real estate business?</p>
@@ -47,7 +47,7 @@ permalink: /join-our-team/
 
 <p>Let’s help you grow your business.</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>{{site.data.settings.client.name}}</p> -->
 
 
 
