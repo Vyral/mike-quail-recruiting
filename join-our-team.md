@@ -1,12 +1,12 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Northshore Careers
 permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
-<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams on The Northshore</h1>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $150,000 - $250,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
@@ -35,13 +35,13 @@ permalink: /join-our-team/
 
 <p>SPECIAL NEW SUBSCRIBER BONUS</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. </p>
+<p>When you subscribe, you’ll also receive a free video tour of my office so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. </p>
 
 <p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
 
 <p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a free video tour of my office.</p>
 
 <p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
 

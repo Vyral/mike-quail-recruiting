@@ -8,30 +8,28 @@ custom_links:
   - title: Events
     url: https://www.eventbrite.com/e/102109163256
   - title: Free Strategy Call
-    url: /contact/
-  - title: Products
-    url:    
+    url: /strategy-call/
 client:
   name: Mike Quail
   title:
   license_number:
   about_markdown: |
-    Mike Quail is a Real Estate Agent at eXp Realty and founder of The Quail Group. Mike and his team strive to provide clients with exceptionally competent service, to create caring relationships with clients, co-workers, and vendors, and to cultivate continual growth in their company, community, personal and professional lives, and in the lives of their clients. The Quail Group also seeks to be a pillar in the local community by partnering with other local business and organizations to continually better their area. Mike Quail is a member of the Platinum Real Estate group, a group of the top 1% of agents in North America. He was named to the RE/MAX Hall of Fame several years ago and was a top producer at his previous brokerage, EXIT Realty. Mike's listings, on average, sell three times faster than other listings in Massachusetts, and he sells listings at 4.4% more than the Realtor's Board Average. Mike graduated from Babson College with a degree in Marketing, and continues to specialize in internet marketing and marketing strategy for his clients. Every three months, Mike meets with other top agents across North America to brainstorm new buyer and seller strategies. Mike lives in Danvers with his wife, Anny, and three daughters! When Mike is not working, he spends most of his time participating in activities that revolve around Barbie princesses with his daughters or playing intense Basketball games at the Beverly YMCA.
+    Mike Quail is a Real Estate Agent at eXp Realty and founder of Mike Quail Home Selling Team. Mike and his team strive to provide clients with exceptionally competent service, to create caring relationships with clients, co-workers, and vendors, and to cultivate continual growth in their company, community, personal and professional lives, and in the lives of their clients. Mike Quail Home Selling Team also seeks to be a pillar in the local community by partnering with other local business and organizations to continually better their area. Mike Quail is a member of the Platinum Real Estate group, a group of the top 1% of agents in North America. He was named to the RE/MAX Hall of Fame several years ago and was a top producer at his previous brokerage, EXIT Realty. Mike's listings, on average, sell three times faster than other listings in Massachusetts, and he sells listings at 4.4% more than the Realtor's Board Average. Mike graduated from Babson College with a degree in Marketing, and continues to specialize in internet marketing and marketing strategy for his clients. Every three months, Mike meets with other top agents across North America to brainstorm new buyer and seller strategies. Mike lives in Danvers with his wife, Anny, and three daughters! When Mike is not working, he spends most of his time participating in activities that revolve around Barbie princesses with his daughters or playing intense Basketball games at the Beverly YMCA.
   market: Northshore
   brand: Mike Quail Home Selling Team
   brokerage:
-  address: 100 Conifer Hill Road Suite 102 Danvers, MA. 01923
+  address: 100 Conifer Hill Road Suite 102<br>Danvers, MA. 01923
   phone: 978-406-9294
   phone_type:
   phone2:
   phone2_type:
   email: mike@thequailgroup.com
-  url: http://thequailgroup.blogspot.com
+  url: http://www.soldbyquail.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how The Quail Group can take your business to new heights."
+    CTA_text: "Let's talk about how Mike Quail Home Selling Team can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -73,7 +71,7 @@ podcast:
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Northshore Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Quail Group - your professional Northshore Real Estate Agents.'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Mike Quail Home Selling Team - your professional Northshore Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Northshore, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'Mike Quail'
 

@@ -22,7 +22,7 @@ permalink: /strategy-call/
 
 <!-- {% include strategy-photos.html %} -->
 
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Mike Quail and I’ve sold 75 of homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -40,14 +40,13 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="testimonial-text indent">"The whole session was great. Really helpful. It's always nice to see what another agent, let alone another team, does. This has been extremely helpful. I'd definitely love to be included on the follow up. I think, definitely, especially in this slowing down time, we've still been pretty busy. It's nice to be able to have some takeaways to really focus and structure our business plan and get centered, and not get carried away with the shifts that have happened. Letting Matt and I make some thoughtful implementations into our business and not just run wild with it." <span class="testimonial-author">- Shea Pillsbury, Keller Williams Beverly</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="testimonial-text indent">""Lucky; Very Helpful! Mike went through everything other than just leads. He took us through a whole system other than just taking a course to learn one part of the business. The biggest take away from this is that I was the importance of domains. For a domain where I want to send my CRM, making sure that the area is in the title is very smart. If I am searching for Northshore homes, and I see Mike Quail,  I might click on it. But if I see a site with Northshore Homes in the title, I definitely would click on it because that website obviously has what I want."" <span class="testimonial-author">- Lucky Henry, Keller Williams Boston</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="testimonial-text indent">"Thank you very much. This was right on time. With all this time, this was great, to get myself situated. Also, all the resources that I can now leverage and I can now see, it was driving me crazy to find something. Thank you very much, and  I will be contacting you." <span class="testimonial-author">- Walguira Leguisamon, Keller Williams Reading</span></p>
+
+<p class="testimonial-text indent">"You've given me guidance. You're keeping positive. 'Colleen, you  just started but you can get through this,' And I think I have contacted three buyers this week! So, I think that is huge in these times. You've just taught me a lot. How to reach out to people, and structure, during these difficult times.  <span class="testimonial-author">- Colleen Eddy, eXp Realty Danvers</span></p>
 </div>
 <hr>
 
