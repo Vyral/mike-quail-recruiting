@@ -5,8 +5,7 @@ date: 2020-06-29 19:53:00
 tags:
 excerpt: >-
   If you’re an existing real estate agent or you’re thinking about getting into
-  the business, this workshop is for you. Join me as we dive into how to succeed
-  in real estate!
+  the business, this online workshop is for you.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
