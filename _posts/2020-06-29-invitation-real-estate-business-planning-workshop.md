@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'Invitation: Business Planning Workshop'
+title: 'Invitation: Real Estate Business Planning Workshop'
 date: 2020-06-29 19:53:00
 tags:
-excerpt: You're invited!
+excerpt: >-
+  If you’re an existing real estate agent or you’re thinking about getting into
+  the business, this workshop is for you. Join me!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
