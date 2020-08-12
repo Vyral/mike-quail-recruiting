@@ -19,7 +19,7 @@ youtube_code: iDoDkZC7qr8
 
 {% include youtube.html %}
 
-Here’s how we educate our buyers to help them get under contract.
+<p style="text-align:center">Here’s how we educate our buyers to help them get under contract.</p>
 
 {% include full-post-cta.html %}
 
