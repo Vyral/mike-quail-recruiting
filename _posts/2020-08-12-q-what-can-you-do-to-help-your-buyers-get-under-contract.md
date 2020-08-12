@@ -21,8 +21,6 @@ youtube_code: iDoDkZC7qr8
 
 <p style="text-align:center"><em>Here’s how we educate our buyers to help them get under contract.</em></p>
 
-{% include full-post-cta.html %}
-
 Have you ever had a buyer client fall in love with a home, but after you give them recommendations on how to write an offer, they look at you like you have three heads? And then they ignore your advice when submitting an offer, lose out on the home and end up distrusting you?
 
 One way to prevent this is to **educate your clients before they enter into a high-pressure multiple-offer situation.** My team does this by using a document called “12 Decisions to Make When Crafting the Offer.”
@@ -41,3 +39,4 @@ For example, a stronger offer means buying the home as is and having no inspecti
 
 If you’d like a copy of this form or have questions about educating your clients before making an offer, feel free to call or email me. I’d be happy to help you.
 
+{% include full-post-cta.html %}
