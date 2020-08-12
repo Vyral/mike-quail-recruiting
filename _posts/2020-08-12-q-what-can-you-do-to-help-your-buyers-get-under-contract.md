@@ -29,6 +29,8 @@ One way to prevent this is to **educate your clients before they enter into a hi
 
 In this form, we go over factors like purchase price, home inspection contingencies, financial loan commitment, appraisal contingency, earnest money deposit, post-closing occupancy, seller-paid closing costs, down payment, types of financing, home sale contingencies, and closing dates. **Then, we break down each factor into three categories: stronger offer, moderate offer, and weaker offer.&nbsp;**
 
+{% include pullquote.html %}
+
 For example, when it comes to purchase price, a stronger offer means making an offer above asking price or using an escalation clause, while a moderate offer means an offer right at market value, and a weaker offer means an offer below market value.
 
 You do this kind of thing every day, but this might be your client’s first home purchase, or the first one they’ve had in many years. This information may get a little jumbled to them, but **a document like this clarifies things and helps them make good decisions.&nbsp;**
@@ -39,4 +41,3 @@ For example, a stronger offer means buying the home as is and having no inspecti
 
 If you’d like a copy of this form or have questions about educating your clients before making an offer, feel free to call or email me. I’d be happy to help you.
 
-{% include pullquote.html %}
