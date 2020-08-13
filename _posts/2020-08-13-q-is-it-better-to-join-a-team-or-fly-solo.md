@@ -19,7 +19,7 @@ youtube_code: rqs1KZDXfFM
 
 {% include youtube.html %}
 
-Consider these facts when deciding whether to join a team or work alone.
+<p style="text-align:center">Consider these facts when deciding whether to join a team or work alone.</p>
 
 Everyone knows the real estate business is tough, and that’s why the path you choose starting out is critically important. Which is better, though: Working by yourself, or joining a team?&nbsp;
 
