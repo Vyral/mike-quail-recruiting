@@ -8,8 +8,8 @@ excerpt: Consider these facts when deciding whether to join a team or work alone
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mike+Quail/2020/Q-+Is+It+Better+to+Join+a+Team%2C+or+Fly+Solo_.mp4
 pullquote: >-
-  “You may snag a few sales at the start, but eventually, you’ll run out of
-  uncles.”
+  You may snag a few sales at the start, but eventually, you’ll run out of
+  uncles.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
