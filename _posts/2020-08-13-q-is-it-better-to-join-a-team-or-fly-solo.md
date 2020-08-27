@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/team-yt-mike-quail.jpg
-youtube_code: rqs1KZDXfFM
+youtube_code: QFV7LCCBcOw
 ---
 
 {% include youtube.html %}
