@@ -17,7 +17,7 @@ youtube_code: 2tal-kda_dk
 
 {% include youtube.html %}
 
-Here’s how to help clients buy and sell in our crazy market.
+<p style="text-align:center;">Here’s how to help clients buy and sell in our crazy market.</p>
 
 Suppose you have a client who wants to upgrade from a 3-bedroom home to a 4-bedroom home with a garage. They know they can sell because the market is red-hot, but they’re worried about not being able to find their next home.&nbsp;
 
