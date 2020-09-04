@@ -25,12 +25,12 @@ How do you help them? The first option I could mention is something our team has
 
 {% include pullquote.html %}
 
-If that doesn’t work, there are a couple more traditional options you can also provide.
+If that doesn’t work, there are a couple of other traditional options you can also provide.
 
 The first is **pre-listing their house.** If your seller is paranoid about selling their house and ending up homeless, this is a great option. First, you get their home prepped for the market (repairs, staging, photograph, videography, etc.), then you take them out shopping for new homes. If they find one they like, you can list their home right now so they’re similarly free to make an offer on their potential new home right now instead of waiting several weeks.&nbsp;
 
-If they’re not a strong enough buyer to pursue this strategy or are nervous about selling, you could also **put their home on the market subject to them finding suitable housing.** To be fair to the buyers who are interested in their house, you can negotiate a shopping window so they’re not waiting for a long time. That prospect might scare them off from making an offer in the first palace.&nbsp;
+If they’re not a strong enough buyer to pursue this strategy or are nervous about selling, you could also **put their home on the market subject to them finding suitable housing.** To be fair to the buyers who are interested in their house, you can negotiate a shopping window so they’re not waiting for a long time. That prospect might scare them off from making an offer in the first place.&nbsp;
 
-If you have questions about these strategies or there’s anything else I can help you with, feel free to call or email me anytime. I’m happy to help.
+If you have questions about these strategies or there’s anything else I can help you with, feel free to call or email me. I’m happy to help.
 
 {% include full-post-cta.html %}
