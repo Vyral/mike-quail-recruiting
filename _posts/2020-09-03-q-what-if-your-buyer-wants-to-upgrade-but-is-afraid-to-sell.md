@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/catch-22-yt-mike-quail.jpg
-youtube_code: 2tal-kda_dk
+youtube_code: n6Iyl8E08P8
 ---
 
 {% include youtube.html %}
