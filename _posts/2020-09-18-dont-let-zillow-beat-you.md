@@ -17,7 +17,7 @@ youtube_code: yoYOgk5KGNA
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Here’s how real estate agents can ensure Zillow doesn’t beat them.</p>
+<p style="text-align:center;"><em>Here’s how real estate agents can ensure Zillow doesn’t beat them.</em></p>
 
 Zillow is a huge player in the real estate industry. So as a real estate agent, how do you beat Zillow?&nbsp;
 
