@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Let Zillow Beat You
-date: 2020-09-18 19:37:44
+date: 2020-09-18 19:37:00
 tags:
   - Transaction Management
 excerpt: Here’s how real estate agents can ensure Zillow doesn’t beat them.
@@ -17,13 +17,13 @@ youtube_code: yoYOgk5KGNA
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s how real estate agents can ensure Zillow doesn’t beat them.</em></p>
+*Here’s how real estate agents can ensure Zillow doesn’t beat them.*
 
 Zillow is a huge player in the real estate industry. So as a real estate agent, how do you beat Zillow?&nbsp;
 
 **I don’t think there’s a true way to “beat” Zillow.** I recommend bringing Zillow into the conversation. When discussing home values with your seller, bring your laptop or a screenshot of their Zestimate. You know your seller has checked Zillow, so instead of ignoring it like the elephant in the room, talk about it.&nbsp;
 
-Zillow’s Zestimates can be too low, too high, or accurate, which means we don’t truly know what a home is worth until we look at comparable properties. (If you don’t know how to find comparables, reach out to me; I can help you.) I always explain to my sellers that the Zestimate is not very accurate, tell them we need to look at the last 90 or 180 days of sales of comparable homes, and we’ll go through them together.&nbsp;
+Zillow’s Zestimates can be too low, too high, or close to the mark, which means we don’t truly know what a home is worth until we look at comparable properties (if you don’t know how to find comparables, reach out to me and I can help you). I always explain to my sellers that the Zestimate is not very accurate, tell them we need to look at the last 90 or 180 days of sales of comparable homes, and we’ll go through them together.&nbsp;
 
 {% include pullquote.html %}
 
