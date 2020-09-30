@@ -18,7 +18,7 @@ youtube_code: Q1XSdtPAd4c
 
 {% include youtube.html %}
 
-New to the real estate business? I’ll show you how to make a six-figure income in your first year.
+<p style="text-align:center;"><em>New to the real estate business? I’ll show you how to make a six-figure income in your first year.</em></p>
 
 So, you’ve recently earned your real estate license, and maybe you haven’t done much with it yet—how do you make money? A lot of people get into the industry because they have a big heart and love to serve people. This is an incredible business for that; you can help families buy and sell homes and move on to the next phase of their lives. However, what you might not realize is that this isn’t just a ‘heart’ business—it’s a fast-paced industry that relies on marketing, self-promotion, and cold calling. If you don’t do those three things, you’ll often find yourself struggling.
 
