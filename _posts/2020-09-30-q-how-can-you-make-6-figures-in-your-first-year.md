@@ -7,13 +7,13 @@ excerpt: >-
   New to the real estate business? I’ll show you how to make a six-figure income
   in your first year.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mike+Quail/2020/v1_How+to+Make+6+Figures+Your+First+Year+-+Mike+Quail.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mike+Quail/2020/Q-+What+Can+You+Do+to+Help+Your+Buyers+Get+Under+Contract_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2020-10-2.jpg
-youtube_code: Q1XSdtPAd4c
+youtube_code: vW97PFwSpeQ
 ---
 
 {% include youtube.html %}
