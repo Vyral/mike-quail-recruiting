@@ -18,9 +18,9 @@ youtube_code: _YvKVs5i_QY
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s a quick guide to managing buyers’ expectations.</em></p> 
+*Here’s a quick guide to managing buyers’ expectations.*
 
-A hear other agents complain all the time that, given how tough the inventory situation is, their buyers aren’t being realistic. Then I see agents on my team helping buyers get their properties under contract quickly and smoothly. What’s the difference between our buyers and other buyers?&nbsp;
+I hear other agents complain all the time that, given how tough the inventory situation is, their buyers aren’t being realistic. Then I see agents on my team helping buyers get their properties under contract quickly and smoothly. What’s the difference between our buyers and other buyers?&nbsp;
 
 **The answer is the advisory communication we give to our buyers.** No matter where your buyers are looking to buy, you have to educate them on the marketplace so they can make intelligent decisions. If they assume today’s market is the same as it was four years ago, they’ll have a different attitude toward what’s available today. The house they could’ve bought for $400,000 once upon a time may be worth $500,000 or $525,000 now. If you don’t educate them about this fact from the very start, they’ll get frustrated with the market and, ultimately, you. They’ll then end up firing you, and you’ll have done a lot of work and spent a lot of gas money for nothing.&nbsp;
 
