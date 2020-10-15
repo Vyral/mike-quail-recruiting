@@ -18,7 +18,7 @@ youtube_code: _YvKVs5i_QY
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s a quick guide to managing buyers’ expectations.</em></p> &nbsp;
+<p style="text-align:center;"><em>Here’s a quick guide to managing buyers’ expectations.</em></p> 
 
 A hear other agents complain all the time that, given how tough the inventory situation is, their buyers aren’t being realistic. Then I see agents on my team helping buyers get their properties under contract quickly and smoothly. What’s the difference between our buyers and other buyers?&nbsp;
 
