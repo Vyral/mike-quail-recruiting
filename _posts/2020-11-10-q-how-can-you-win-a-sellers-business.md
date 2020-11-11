@@ -18,9 +18,9 @@ youtube_code: p5TeyPLtKuo
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>These are the eight steps you should take to win a listing.</em></p>
+*These are the eight steps you should take to win a listing.*
 
-If you’re a listing agent hoping to win the business of a homeowner in your area, there are eight steps that you can take to ensure that homeowners come to you for their home selling needs:
+If you’re a listing agent hoping to win the business of homeowners in your area, there are eight steps you can take to ensure they come to you for their home selling needs:
 
 **1\. What do you stand for?** Identify what you stand for and how that differs from all the other agents your client could choose. Our team guarantees to sell clients’ homes or Mike will buy it—that tends to get sellers’ attention. You could also guarantee to sell their home in a certain number of days or you’ll give them a discounted commission. These guarantees are called USPs, or unique sales propositions, and you want to incorporate them into your business.
 
@@ -36,8 +36,8 @@ If you’re a listing agent hoping to win the business of a homeowner in your ar
 
 **6\. VIP benefits presentation**. During this step, we’ll show them all of the specific things we do to make us stand out from our competition.
 
-**7\. Educate them on the market.** We give our sellers three prices (high, medium, low) at which they could expect to be able to sell their home. We’ll also share what to expect from the market at each price level so they can make an empowered decision.
+**7\. Educate them on the market.** We give our sellers three prices (high, medium, low) at which they could expect to be able to sell their homes. We’ll also share what to expect from the market at each price level so they can make an empowered decision.
 
 **8\. Your performance guarantees.** Many people don’t provide performance guarantees to their sellers. We provide a cancellation guarantee, which is basically a one-day listing—if the seller is unhappy, no matter how much money we spent on marketing their home, they can fire us at any time. This helps the seller feel very assured that we’ll do what we say we will. We also have customer service guarantees where we’ll give the seller $100 for each time we don’t return a phone call within 24 business hours. Additionally, we have a price guarantee that states if we don’t get them a certain price for their home, we’ll give them a certain amount of money off for each segment of the price we missed the mark on.
 
-Feel free to use this information to build up your own business, and if you’d like more information on how we do it, or you’d like to discuss joining Team Archer, don’t hesitate to reach out. We’d love to speak with you.
+Feel free to use this information to build up your own business and if you’d like more information on how we do it, or you’d like to discuss joining the Mike Quail Home Selling Team, don’t hesitate to reach out. We’d love to speak with you.
