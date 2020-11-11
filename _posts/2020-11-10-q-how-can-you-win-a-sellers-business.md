@@ -18,7 +18,7 @@ youtube_code: p5TeyPLtKuo
 
 {% include youtube.html %}
 
-*These are the eight steps you should take to win a listing.*
+<p style="text-align:center;"><em>These are the eight steps you should take to win a listing.</em></p>
 
 If you’re a listing agent hoping to win the business of homeowners in your area, there are eight steps you can take to ensure they come to you for their home selling needs:
 
