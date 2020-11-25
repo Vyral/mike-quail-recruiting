@@ -18,7 +18,7 @@ youtube_code: A0_EczZWcYU
 
 {% include youtube.html %}
 
-Our newest agent booked 16 appointments in three weeks. Here’s how.
+<p style="text-align:center;"><em>Our newest agent booked 16 appointments in three weeks. Here’s how.</em></p>
 
 Amy has been with the Mike Quail Home Selling Team for just three weeks and she’s already booked 16 appointments. Of those 16 appointments, she’s met with six potential clients and signed all six of them to year-long buyer agreements at a 3% commission.&nbsp;
 
