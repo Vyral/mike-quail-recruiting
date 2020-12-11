@@ -16,7 +16,7 @@ youtube_code: P_9c_VBz9Jc
 
 {% include youtube.html %}
 
-Buyer's agent commissions are dropping, but we’re not worried.
+<p style="text-align:center;"><em>Buyer's agent commissions are dropping, but we’re not worried.</em></p>
 
 Today’s topic is a sticky one: buyer's agent commissions.&nbsp;
 
