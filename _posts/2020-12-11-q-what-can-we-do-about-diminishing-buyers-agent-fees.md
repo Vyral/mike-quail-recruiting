@@ -24,7 +24,7 @@ If you’ve been in the business for at least two years, you’ve probably notic
 
 From a consumer standpoint, that’s a fair question. We agents know how well this arrangement works for buyers and sellers, but I understand their argument. What happens if they win these class-action lawsuits, though? There will be even greater downward pressure on buyer's agent commissions, and they may disappear forever.
 
-{% include pullquote.html %}&nbsp;
+{% include pullquote.html %}
 
 Should you be worried about this? Yes, but we at the Mike Quail Home Selling Team aren’t, and there’s one good reason for that: **our VIP buyer program.** This program grants buyers access to 16 other sources for homes besides the MLS. It provides more than just a guide for showing homes, opening doors, and negotiating deals. With this program, we also tell our buyers up front what our fee is to represent them. We don’t care what’s being offered out because we pre-negotiate our fees with our buyers. They understand these fees and appreciate them.&nbsp;
 
