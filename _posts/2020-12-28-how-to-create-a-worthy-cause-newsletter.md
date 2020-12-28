@@ -20,8 +20,6 @@ youtube_code: K7lc8x8C5b8
 
 What’s the trick to staying top of mind without coming off as cheesy?
 
-&nbsp;
-
 Today I’ll share the secret to getting tons of referrals from your friends, family, and past clients without being cheesy or begging for business.
 
 Here at the Mike Quail Team, we’ve partnered with the Dana Farber Cancer Institute in Boston and the Jimmy Fund to help people conquer cancer. To do that, we’ve set a team goal to donate $10,000 to the Jimmy Fund.
