@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/worthy-cause-email-mike-quail.jpg
-youtube_code: K7lc8x8C5b8
+youtube_code: zllZp77KLyQ
 ---
 
 {% include youtube.html %}
