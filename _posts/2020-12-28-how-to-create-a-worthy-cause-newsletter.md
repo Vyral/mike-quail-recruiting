@@ -18,7 +18,7 @@ youtube_code: K7lc8x8C5b8
 
 {% include youtube.html %}
 
-*What’s the trick to staying top of mind without coming off as cheesy?*
+<p style="text-align:center;"><em>What’s the trick to staying top of mind without coming off as cheesy?</em></p>
 
 Today I’ll share the secret to getting tons of referrals from your friends, family, and past clients without being cheesy or begging for business.
 
