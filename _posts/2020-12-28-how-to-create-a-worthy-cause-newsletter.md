@@ -5,7 +5,7 @@ date: 2020-12-28 10:12:00
 tags: Lead Conversion
 excerpt: What’s the trick to staying top of mind without coming off as cheesy?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mike+Quail/2020/How+to+Create+a+Worthy+Cause+Newsletter.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mike+Quail/2020/How+to+Create+a+Worthy+Cause+Newsletter+(1).mp4
 pullquote: >-
   Pick a worthy cause that you’re passionate about and invest in it both
   monetarily and emotionally.
@@ -18,7 +18,7 @@ youtube_code: K7lc8x8C5b8
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What’s the trick to staying top of mind without coming off as cheesy?</em></p>
+*What’s the trick to staying top of mind without coming off as cheesy?*
 
 Today I’ll share the secret to getting tons of referrals from your friends, family, and past clients without being cheesy or begging for business.
 
